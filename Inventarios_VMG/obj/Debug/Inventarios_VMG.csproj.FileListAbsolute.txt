@@ -1,0 +1,11 @@
+C:\Users\valer\source\repos\Inventarios_VMG\Inventarios_VMG\obj\Debug\Inventarios_VMG.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\Inventarios_VMG\Inventarios_VMG\obj\Debug\Presentacion_TallerAutomotiz.FrmMenu.resources
+C:\Users\valer\source\repos\Inventarios_VMG\Inventarios_VMG\obj\Debug\Inventarios_VMG.Properties.Resources.resources
+C:\Users\valer\source\repos\Inventarios_VMG\Inventarios_VMG\obj\Debug\Inventarios_VMG.csproj.GenerateResource.cache
+C:\Users\valer\source\repos\Inventarios_VMG\Inventarios_VMG\obj\Debug\Inventarios_VMG.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\Inventarios_VMG\Inventarios_VMG\bin\Debug\Inventarios_VMG.exe.config
+C:\Users\valer\source\repos\Inventarios_VMG\Inventarios_VMG\bin\Debug\Inventarios_VMG.exe
+C:\Users\valer\source\repos\Inventarios_VMG\Inventarios_VMG\bin\Debug\Inventarios_VMG.pdb
+C:\Users\valer\source\repos\Inventarios_VMG\Inventarios_VMG\obj\Debug\Inventarios_VMG.exe
+C:\Users\valer\source\repos\Inventarios_VMG\Inventarios_VMG\obj\Debug\Inventarios_VMG.pdb
+C:\Users\valer\source\repos\Inventarios_VMG\Inventarios_VMG\obj\Debug\Inventarios_VMG.FrmEspacios.resources
